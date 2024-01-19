@@ -1,0 +1,5 @@
+afia 5 11
+asfia 4 22
+tasfia 3 33
+rakib 2 44
+sakib 1 55
